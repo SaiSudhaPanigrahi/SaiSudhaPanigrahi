@@ -1,4 +1,4 @@
-<h2 align="center">Hello World 👋, I'm Sai Sudha Panigrahi</h2>
+<h2 align="center">Hello World, I'm Sai Sudha Panigrahi</h2>
 <h3 align="center">An Experienced Full-Stack Software Engineer & AI/ML Enthusiast</h3>
 
 - 👨‍💻 I’m currently pursuing Masters in CS at the [University of Southern California](https://www.usc.edu/)
