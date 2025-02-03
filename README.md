@@ -10,17 +10,14 @@
   
 - 📫 How to reach me **saisudha@usc.edu**
 
-- 📄 Download my **Resume** [Resume Link](https://www.dropbox.com/scl/fi/l3ddy8a7wmcvrv1hz0mmp/Resume_SWE_SSP.pdf?rlkey=2gp9dt6si4dn0yi3mwv0tbkx0&st=ihnl73l2&dl=0)
+- 📄 Download my **Resume** **[Resume Link](https://www.dropbox.com/scl/fi/l3ddy8a7wmcvrv1hz0mmp/Resume_SWE_SSP.pdf?rlkey=2gp9dt6si4dn0yi3mwv0tbkx0&st=ihnl73l2&dl=0)**
 
 
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sai-sudha-panigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-sudha-panigrahi" height="30" width="40" /></a>
+<h4 align="left" style="display: inline;">Connect with me:</h4> <p align="left">
+<a href="https://linkedin.com/in/sai-sudha-panigrahi" target="blank" style="margin-right: 50px;"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" width="40" alt="sai-sudha-panigrahi" /></a>
+<a href="mailto:saisudha@usc.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" alt="saisudha@usc.edu" /></a>
 </p>
 
-<br>
 
 <h3 align="center">🚀 Technology Stack</h3>
 
