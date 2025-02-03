@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 <h2 align="center">Hello World 👋, I'm Sai Sudha Panigrahi</h2>
 <h3 align="center">An Experienced Full-Stack Software Engineer & AI/ML Enthusiast</h3>
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
