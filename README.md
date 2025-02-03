@@ -5,6 +5,8 @@
 -->
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
+</br>
+
 - 👨‍💻 I’m currently pursuing Masters in CS at the [University of Southern California](https://www.usc.edu/)
 
 - 💼 I have previously worked as a Software Engineer at D.E. Shaw, Oracle and Locad 
@@ -32,5 +34,6 @@
 | `Development Methodologies` | ![Agile](https://img.shields.io/badge/Agile-0175C2?style=for-the-badge&logo=scrumalliance&logoColor=white) ![TDD](https://img.shields.io/badge/Test_Driven_Development-DC143C?style=for-the-badge&logo=testing-library&logoColor=white) |
 | `Machine Learning & AI` | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Seaborn](https://img.shields.io/badge/Seaborn-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) |
 
+</br>
 
 - Check out some of my **Projects** and **Research Publications** below ⬇
