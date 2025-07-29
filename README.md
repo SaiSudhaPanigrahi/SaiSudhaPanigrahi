@@ -15,7 +15,7 @@
   
 - 📫 How to reach me **saisudha@usc.edu**
 
-- 📄 Download my **Resume** **[Resume Link](https://www.dropbox.com/scl/fi/l3ddy8a7wmcvrv1hz0mmp/Resume_SWE_SSP.pdf?rlkey=2gp9dt6si4dn0yi3mwv0tbkx0&st=ihnl73l2&dl=0)**
+- 📄 Download my **Resume** **[Resume Link](https://www.dropbox.com/scl/fi/eugd8g3z5wfxidl3d02oo/SaiSudha_Resume_3YOE.pdf?rlkey=wtj4kxxrsmem0wg3reuy8nws6&st=rujonbg4&dl=0)**
 
 
 <h4 align="left" style="display: inline;">Connect with me:</h4> <p align="left">
