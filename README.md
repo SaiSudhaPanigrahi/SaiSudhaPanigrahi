@@ -7,15 +7,17 @@
 
 </br>
 
-- 👨‍💻 I’m currently pursuing Masters in CS at the [University of Southern California](https://www.usc.edu/)
+- 👨‍💻 I’m currently pursuing Masters in CS at the [University of Southern California](https://www.usc.edu/) and working as an AI intern at Pasadena Digital
 
-- 💼 I have previously worked as a Software Engineer at D.E. Shaw, Oracle and Locad 
+- 💼 I have previously worked as a Software Engineer at **Arcesium, Oracle** and **Locad** 
 
-- 🔭 I’m actively seeking **Summer '25 Internships** in the United States
+- 🔭 I’m actively seeking **Full-time and Co-op** oppurtunities in the United States
   
 - 📫 How to reach me **saisudha@usc.edu**
 
 - 📄 Download my **Resume** **[Resume Link](https://www.dropbox.com/scl/fi/eugd8g3z5wfxidl3d02oo/SaiSudha_Resume_3YOE.pdf?rlkey=wtj4kxxrsmem0wg3reuy8nws6&st=rujonbg4&dl=0)**
+
+- 🌎 Portfolio Website: **[Portfolio Link](https://saisudhapanigrahi.netlify.app/)**
 
 
 <h4 align="left" style="display: inline;">Connect with me:</h4> <p align="left">
