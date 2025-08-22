@@ -15,8 +15,6 @@
   
 - 📫 How to reach me **saisudha@usc.edu**
 
-- 📄 Download my **Resume** **[Resume Link](https://www.dropbox.com/scl/fi/eugd8g3z5wfxidl3d02oo/SaiSudha_Resume_3YOE.pdf?rlkey=wtj4kxxrsmem0wg3reuy8nws6&st=rujonbg4&dl=0)**
-
 - 🌎 Portfolio Website: **[Portfolio Link](https://saisudhapanigrahi.netlify.app/)**
 
 
