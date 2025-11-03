@@ -13,7 +13,7 @@
 
 - 🔭 I’m actively seeking **Full-time and Co-op** oppurtunities in the United States
   
-- 📫 How to reach me **saisudha@usc.edu**
+- 📫 How to reach me **saisudha@usc.edu/saisudha755@gmail.com**
 
 - 🌎 Portfolio Website: **[Portfolio Link](https://saisudhapanigrahi.netlify.app/)**
 
